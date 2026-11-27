@@ -8,6 +8,20 @@
 ## 职业简介
 具备现场安装、故障诊断、安全技术、智能设备与软件开发经验的跨领域电信技术人员及多智能体系统设计者。[Servicess.net](https://servicess.net/) 创办人，VPN Gypsy 项目创建者。为企业技术升级及 ISO 认证准备提供技术支持，不提供认可认证机构的认证服务。
 
+## 核心项目 — 基于 MCP 与 AI 智能体的 FTTH 管理系统（2025年至今）
+
+结合本人在电信现场的日常工作经验，我设计并开发了 **Fibra 与 Photaxon / FiberSpider**，旨在实现从物理网络基础设施到最终客户的现场业务数字化与协同管理。
+
+- 工单（WR）、客户档案、预约、交付、验收及故障处理流程。
+- 机柜、分光器、光纤分配点、端口、光纤与设备的地理定位及网络映射。
+- 仓储与物料管理、ONT 和调制解调器序列号、维护记录、测量及现场照片。
+- 通过 AI 智能体与 MCP 接口实现受控的数据查询与更新。
+- 基于 Rust、Python/FastAPI、PostgreSQL、Yggdrasil 与 Apache2 的分布式架构，包含数据校验、审计记录与角色隔离。
+
+FiberSpider 是可运行的实验室概念验证项目；高级故障处理、物料库存及外部平台集成功能仍在开发中。不宣称已获网络运营商正式采用。
+
+**网站：** [photaxon.com](https://photaxon.com/) · **代码及文档：** [Fibra](https://github.com/zinga0328it/Fibra) · [Photaxon / FiberSpider](https://github.com/zinga0328it/photaxon)
+
 ## 工作经历
 
 | 时间 | 公司或业务 | 工作内容及项目背景 |
@@ -32,11 +46,11 @@
 | 年份 | 项目 | 主要方向 |
 |---|---|---|
 | 2026 | [Agenti](https://github.com/zinga0328it/agenti) | 分布式 AI 智能体研发：MCP、FastAPI、Yggdrasil、代理节点和 Linux 安全。 |
-| 2026 | [Photaxon / FiberSpider](https://github.com/zinga0328it/photaxon) | 智能 FTTH 研发、资产管理、网络配置、遥测及韧性网络控制。 |
+| 2026 | [Photaxon / FiberSpider](https://github.com/zinga0328it/photaxon) | 基于 MCP 与 AI 的 FTTH 管理、数字孪生、网络映射、资产管理及韧性网络控制。 |
 | 2026 | [MCP Mail](https://github.com/zinga0328it/mcp-mail) | 基于智能体的电子邮件自动化工具。 |
 | 2025–2026 | [Servicess.net](https://servicess.net/) | 技术服务、数字化解决方案与企业自动化。 |
 | 2025 | [VPN Gypsy](https://vpn-gypsy.com/) | 面向个人通信及 Web 基础设施保护的 VPN 解决方案设计、开发与提供。 |
-| 2025 | [Fibra](https://github.com/zinga0328it/Fibra) | 光纤网络业务管理软件。 |
+| 2025 | [Fibra](https://github.com/zinga0328it/Fibra) | 集成 AI 的分布式 FTTH 管理软件，涵盖工单、客户、库存、设备与现场工作流程。 |
 | 2025 | [AI Vigilanza](https://github.com/zinga0328it/AiVigilanza) | 面向服务器基础设施的 Web 项目。 |
 
 **AI Virtus：** 个人研究方向，以“机器人 DNA”为软件架构比喻，探索协作式、去中心化微模块、自诊断与故障恢复。实验性功能需通过测试验证，不宣称已取得专利或提供安全保证。
