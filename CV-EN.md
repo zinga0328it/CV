@@ -26,7 +26,7 @@ FiberSpider is a working laboratory proof of concept; advanced assurance, materi
 
 | Period | Organization / activity | Responsibilities and context |
 |---|---|---|
-| Nov 2026 – present | Gregory SRL | Access network installation, delivery and assurance on [FiberCop](https://www.fibercop.it/) infrastructure in Orvieto/Viterbo, on assignments associated with [Sielte](https://www.sielte.it/) according to my experience. |
+| Nov 2026 – present | Gregory SRL | Technician specializing in installation, activation, maintenance and repair of copper and fiber-optic telecommunications networks. Work for [Sielte](https://www.sielte.it/) on [FiberCop](https://www.fibercop.it/) infrastructure in the provinces of Viterbo and Terni. |
 | 2026 | BLV Impianti, Rome | Telecommunications and field technical work. |
 | 2026 | Jolly Service | Access network installation and maintenance. |
 | 2025–2026 | InPower Group | Telecommunications and optical fiber infrastructure. |
