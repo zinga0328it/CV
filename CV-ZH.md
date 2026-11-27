@@ -26,7 +26,7 @@ FiberSpider 是可运行的实验室概念验证项目；高级故障处理、�
 
 | 时间 | 公司或业务 | 工作内容及项目背景 |
 |---|---|---|
-| 2026年11月 – 至今 | Gregory SRL | 在奥尔维耶托及维泰博地区从事 [FiberCop](https://www.fibercop.it/) 接入网安装、交付与维护，据本人经历涉及 [Sielte](https://www.sielte.it/) 相关项目。 |
+| 2026年11月 – 至今 | Gregory SRL | 电信技术人员，专门负责铜缆及光纤通信网络的安装、开通、维护与故障维修。在维泰博省和特尔尼省为 [Sielte](https://www.sielte.it/) 提供 [FiberCop](https://www.fibercop.it/) 网络基础设施相关技术服务。 |
 | 2026 | BLV Impianti，罗马 | 电信及现场技术工作。 |
 | 2026 | Jolly Service | 接入网络安装与维护。 |
 | 2025–2026 | InPower Group | 电信及光纤基础设施。 |
