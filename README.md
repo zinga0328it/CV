@@ -26,7 +26,7 @@ FiberSpider è un proof of concept operativo in laboratorio; le funzioni avanzat
 
 | Periodo | Azienda / attività | Competenze e riferimenti |
 |---|---|---|
-| Nov. 2026 – oggi | Gregory SRL | Tecnico reti telefoniche, delivery e assurance su rete [FiberCop](https://www.fibercop.it/), area Orvieto/Viterbo, nell'ambito di commesse riconducibili a [Sielte](https://www.sielte.it/) secondo la mia esperienza. |
+| Nov. 2026 – oggi | Gregory SRL | Tecnico specializzato nell'installazione, attivazione, manutenzione e riparazione delle reti telefoniche in rame e fibra ottica. Lavori per conto di [Sielte](https://www.sielte.it/) su infrastruttura [FiberCop](https://www.fibercop.it/), nelle province di Viterbo e Terni. |
 | 2026 | BLV Impianti, Roma | Telecomunicazioni e interventi tecnici. |
 | 2026 | Jolly Service | Installazione e manutenzione reti di accesso. |
 | 2025–2026 | InPower Group | Infrastrutture telefoniche e fibra ottica. |
