@@ -8,6 +8,20 @@ Italy | Open to international opportunities
 ## Profile
 Multidisciplinary telecommunications technician and multi-agent systems designer with hands-on experience in installation, fault diagnosis, security, smart systems and software development. Founder of [Servicess.net](https://servicess.net/) and creator of VPN Gypsy. Technical support for business modernization and ISO certification readiness, not accredited certification services.
 
+## Featured project — MCP and AI agent-powered FTTH management (2025–present)
+
+Drawing on my day-to-day work as a telecommunications field technician, I designed and developed **Fibra and Photaxon / FiberSpider** to digitalize and coordinate field operations from physical infrastructure to the end customer.
+
+- Work orders (WR), customer records, appointments, delivery, acceptance testing and fault workflows.
+- Georeferenced mapping of cabinets, splitters, distribution points, ports, fibers and equipment.
+- Warehouse and materials management, ONT and modem serial numbers, intervention records, measurements and photographs.
+- AI agents and MCP interfaces for controlled data retrieval and updates.
+- Distributed architecture using Rust, Python/FastAPI, PostgreSQL, Yggdrasil and Apache2, with validation, audit trails and role separation.
+
+FiberSpider is a working laboratory proof of concept; advanced assurance, materials inventory and external platform integration remain under development. No official adoption by network operators is claimed.
+
+**Website:** [photaxon.com](https://photaxon.com/) · **Code and documentation:** [Fibra](https://github.com/zinga0328it/Fibra) · [Photaxon / FiberSpider](https://github.com/zinga0328it/photaxon)
+
 ## Professional experience
 
 | Period | Organization / activity | Responsibilities and context |
@@ -32,11 +46,11 @@ Single years identify reference periods, not exact durations. Experience is self
 | Year | Project | Focus |
 |---|---|---|
 | 2026 | [Agenti](https://github.com/zinga0328it/agenti) | Distributed AI agent R&D: MCP, FastAPI, Yggdrasil, brokers and Linux security. |
-| 2026 | [Photaxon / FiberSpider](https://github.com/zinga0328it/photaxon) | Intelligent FTTH R&D, inventory, provisioning, telemetry and resilient network control. |
+| 2026 | [Photaxon / FiberSpider](https://github.com/zinga0328it/photaxon) | MCP and AI-assisted FTTH management, digital twin, mapping, inventory, provisioning and resilient network control. |
 | 2026 | [MCP Mail](https://github.com/zinga0328it/mcp-mail) | Agent-based email automation tools. |
 | 2025–2026 | [Servicess.net](https://servicess.net/) | Technical services, digital solutions and business automation. |
 | 2025 | [VPN Gypsy](https://vpn-gypsy.com/) | Design, development and offering of VPN solutions for individuals and web infrastructure protection. |
-| 2025 | [Fibra](https://github.com/zinga0328it/Fibra) | Fiber network operations management software. |
+| 2025 | [Fibra](https://github.com/zinga0328it/Fibra) | Distributed FTTH management software for work orders, customers, inventory, equipment and field workflows with AI integration. |
 | 2025 | [AI Vigilanza](https://github.com/zinga0328it/AiVigilanza) | Web project for server infrastructure. |
 
 **AI Virtus:** personal research on cooperative decentralized software micromodules, inspired by the metaphor of robotic DNA, with self-diagnosis and recovery as research goals. Experimental capabilities require validation; no patent or security guarantee is claimed.
